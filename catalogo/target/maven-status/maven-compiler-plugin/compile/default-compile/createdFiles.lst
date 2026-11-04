@@ -1,0 +1,4 @@
+co\edu\ufps\catalogo\CatalogoApplication.class
+co\edu\ufps\catalogo\Producto.class
+co\edu\ufps\catalogo\ProductoRepository.class
+co\edu\ufps\catalogo\ProductoController.class
